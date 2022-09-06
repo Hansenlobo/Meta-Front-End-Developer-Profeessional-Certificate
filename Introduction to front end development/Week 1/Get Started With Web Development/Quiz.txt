@@ -1,0 +1,41 @@
+Question 1
+When two computers connect directly to each other, this forms  ______________.
+
+
+Question 2
+The programs that run on a computer are called the ______________.
+Software
+The programs and services that run on a computer are the software.
+
+Question 3
+The structure of a web page is defined using ______________.
+HTML
+
+Question 4
+The style of a web page is defined using ______________.
+CSS
+
+Question 5
+Computers communicate with each other using which protocol?
+Internet Protocol -IPV4 IPV6
+
+Question 6
+To communicate with another computer on a network, your computer sends a message called an __________________.
+IP Packet
+IP packets contain the data being sent between computers.
+
+Question 7
+The web browser and web server use which protocol to transfer data?
+HTTP
+
+Question 8
+In software development, a framework provides a structure for developers to build an application.
+True
+
+Question 9
+As a developer, it is best to use a _____________ to write and maintain code.
+Integrated Development Environment
+
+Question 10
+In software development, an API is a set of functions that an application component or service can provide.
+True

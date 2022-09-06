@@ -1,0 +1,48 @@
+1.
+Question 1
+Which of the following can be done using the developer tools in your browser? Select all that apply. 
+
+Inspect the HTML elements of a web page.
+The Elements tab of the web browser's developer tools allows you to inspect the HTML of a web page.
+
+
+Check JavaScript error logs.
+ JavaScript error logs will be output in the Console tab of the web browser's developer tools.
+
+
+Inspect a timeline of HTTP requests and responses.
+The Network tab of the web browser's developer tools allows you to inspect the timeline of HTTP requests and responses.
+
+Inspect the performance and memory usage of a webpage.
+The Performance and Memory tabs of the web browser's developer tools allow you to inspect how the web browser is performing while displaying your web page.
+
+
+Question 2
+In software development, a library provides _________________________.
+
+A structure for developers to build an application with.
+Libraries help you to be more efficient while developing your application by providing you with reusable code.
+
+
+Question 3
+In software development, an API is _________________________.
+
+a text editor to write code with.
+As a developer you’ll use APIs to interact with application components and services.
+
+Question 4
+Which of the following are benefits of using an Integrated Development Environment (IDE) such as Visual Studio Code? Select all that apply.
+
+Syntax Highlighting
+ IDEs will highlight keywords in programming languages for you.
+
+
+Error Highlighting
+IDEs will display syntax errors for you.
+
+Autocomplete
+IDEs will suggest code while you type.
+
+IntelliSense
+IDEs will help you rename functions and change function parameters throughout your application.
+

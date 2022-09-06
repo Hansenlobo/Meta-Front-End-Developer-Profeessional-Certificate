@@ -1,0 +1,34 @@
+Question 1
+To reference a CSS file in an HTML document, you use the ______________ tag.
+
+link
+The link tag is used to reference a CSS file
+
+Question 2
+In the following CSS rule, the `h1` part of the rule is called the ______________.
+h1 {
+    color: green;
+}
+
+Selector
+
+Question 3
+What is the padding box width of the following CSS rule?
+div {
+    width: 10px;
+    padding: 20px;
+    margin: 40px;
+}
+
+50
+The padding box width is the sum of the content width and the padding width. In this rule, it is 10 (content width) + 20 (padding left) + 20 (padding right) = 50.
+
+Question 4
+Which CSS property and value change the HTML element to a block-level element?
+
+display: block
+
+Question 5
+Which CSS property and value change the text to center alignment?
+
+text-align: center
