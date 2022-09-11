@@ -1,0 +1,9 @@
+Using the web browser developer tools to check, does your web page content stack vertically on a mobile device?
+Yes
+
+
+Does the profile photo display in the right column of the page?
+No
+
+Does the link to My Meta Profile display as a button?
+Yes

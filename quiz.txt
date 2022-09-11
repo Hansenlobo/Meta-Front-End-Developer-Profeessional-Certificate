@@ -1,0 +1,163 @@
+Based on the following code, what will print out when the variable  i  has the value  3 ?
+
+  if(i < 5) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
+
+Hello
+
+Based on the following code, what will print out when the variable  i  has the value  1 ?
+
+  if(i == 0 && i == 1) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
+
+Hello
+
+How many times will the following code print the word 'Hello'?
+
+
+  for (i = 0; i < 2; i++) {
+      console.log("Hello");
+  }
+
+2
+
+How many times will the following code print the word 'Hello'?
+
+
+  var i = 0;
+  while(i < 3) {
+    console.log("Hello");
+    i++;
+  }
+
+3
+
+
+How many times will the following code print the word 'Hello'?
+
+
+  for (i = 0; i < 2; i++) {
+      for (var j = 0; j < 3; j++) {
+          console.log("Hello");
+      }​
+  }
+
+6
+
+Based on the following code, what will print out when the variable  i  has the value  7 ?
+
+
+  if(i <= 5) {
+    console.log("Hello");
+  } else if(i <= 10) {
+    console.log("Goodnight");
+  } else {
+    console.log("Goodbye");
+  }
+
+
+Goodnight
+
+
+Based on the following code, what will print out when the variable  i  has the value  3 ?
+
+  switch(i) {
+    case 1:
+      console.log("Hello");
+      break;
+    case 2:
+      console.log("Goodnight");
+      break;
+    case 3:
+      console.log("Goodbye");
+      break;
+  }
+Goodbye
+
+
+Based on the following code, what will print out when the variable  i  has the value  3 ?
+
+  if(i == 2 || i == 3) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
+
+hello
+
+
+
+You can run JavaScript in a web browser's devtools console.
+true
+
+
+
+
+Which of the following are valid comments in JavaScript? Select all that apply.
+  // Comment 2
+
+  /*
+   * Comment 4
+   */
+
+Which of the following are valid data types in JavaScript? Select all that apply.
+string
+boolean
+numbers
+null
+
+Which of the following is the logical AND operator in JavaScript?
+&&
+
+Which of the following is the assignment operator in JavaScript?
+=
+
+How many times will the following code print the word 'Hello'?
+
+  for(var i = 0; i <= 5; i++) {
+    console.log("Hello");
+  }
+
+6
+
+What will print out when the following code runs?
+
+  var i = 3;
+  var j = 5;
+
+  if(i == 3 && j < 5) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
+
+Goodbye
+
+
+What will print out when the following code runs?
+  var i = 7;
+  var j = 2;
+
+  if(i < 7 || j < 5) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
+
+  hello
+
+
+
+T​he result of !false is:
+
+true
+
+
+What does the operator symbol || represent in JavaScript?
+logical OR

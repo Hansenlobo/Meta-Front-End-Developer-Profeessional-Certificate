@@ -1,0 +1,65 @@
+Question 1
+The code that runs on the web server is commonly known as _____________.
+Software
+
+Question 2
+In the web browser, what is the role of JavaScript?
+To provide interactivity and data processing
+
+Question 3
+Which of the following is TCP suitable for transmitting? Select all that apply.
+Images
+Text
+
+True or False. Little Lemon will display in the web browser's main window.
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Little Lemon</title>
+</head>
+<body>
+    <p>Our Menu</p>
+</body>
+</html>
+
+False
+
+
+
+What type of selector is used for the following CSS rule?
+.header {
+    width: 50%;
+}
+Class selector
+
+
+Question 7
+What is the border-box width for the following CSS rule?
+div {
+    width: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-width: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+How many columns does Bootstrap's grid consist of?
+12
+
+
+In the following HTML, Bootstrap grid CSS class col-xl-6 is applied to the div element. What is the xl part of the class known as?
+<div class="col-xl-6">
+
+</div>
+Infix
+
+
+React applications are built using reusable pieces of code. What are these pieces known as?
+Components
+
+
+Question 3
+Which of the following issues does UDP solve? Select all that apply.
